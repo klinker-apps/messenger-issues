@@ -22,7 +22,7 @@ To report your issue, find the `Issues` link near the top of the web page and cl
 
 ## Contributing to Pulse SMS
 
-Want to dig in to some code yourself, rather than just report issues to this page? I have three open-source Pulse clients that you can take a look at:
+Want to dig in to some code yourself, rather than just report issues to this page? I have five open-source Pulse clients that you can take a look at:
 
 1. The Pulse web app, built on Vue.js: https://github.com/klinker-apps/messenger-web
 2. The Pulse desktop clients, built on Electron: https://github.com/klinker-apps/messenger-desktop
