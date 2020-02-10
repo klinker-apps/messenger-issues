@@ -35,4 +35,4 @@ Want to dig in to some code yourself, rather than just report issues to this pag
 
 If you are interested in helping, take a look and see what you can build. I am always open to quality contributions towards the app.
 
-The backend and Android apps are not open-source. All the issue tracking/feature requests, for the repos above, will still be done on this page, as well.
+The backend is not open-source. All the issue tracking/feature requests, for the repos above, will still be done on this page, as well.
